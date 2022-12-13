@@ -4,7 +4,7 @@
 
 🧡 -> Favorite libs and frameworks -> GSAP, Vue.js, WordPress
 
-📫 -> post@dennishelbig.com 
+📫 -> dev@dennishelbig.com 
 
 
 <!---
