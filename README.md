@@ -2,7 +2,7 @@
 
 👀 -> visual appealing frontend development, animation and the wizardry of javascript.
 
-🧡 -> Favorite libs and frameworks -> GSAP, Vue.js, WordPress
+🧡 -> Favorite libs and frameworks -> Nuxt, Vue, GSAP, WordPress
 
 📫 -> dev@dennishelbig.com 
 
